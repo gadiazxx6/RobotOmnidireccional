@@ -1,2 +1,2 @@
-# RobotOmnidireccional
-SENA - SENAUTRONIC Laboratorio 
+# Omnidirectional Robot
+SENAUTRONIC
